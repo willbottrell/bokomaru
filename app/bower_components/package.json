@@ -1,0 +1,39 @@
+{
+  "name": "npm-polymer-elements",
+  "version": "0.0.1",
+  "description": "Polymer Elements package for npm",
+  "keywords": [
+    "Polymer",
+    "Paper elements",
+    "Neon elements",
+    "Carbon elements",
+    "Platinum elements"
+  ],
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "license": "BSD-2-Clause",
+  "gitHead": "fb7f7ddf3140fbee90cf5492d0e9029ae5a43679",
+  "_id": "npm-polymer-elements@0.0.1",
+  "scripts": {},
+  "_shasum": "8cb837300de98819c775c0a07b0aada8ac3d0bd6",
+  "_from": "npm-polymer-elements@latest",
+  "_npmVersion": "3.3.9",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "addyosmani",
+    "email": "addyosmani@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "addyosmani",
+      "email": "addyosmani@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8cb837300de98819c775c0a07b0aada8ac3d0bd6",
+    "tarball": "https://registry.npmjs.org/npm-polymer-elements/-/npm-polymer-elements-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/npm-polymer-elements/-/npm-polymer-elements-0.0.1.tgz"
+}
